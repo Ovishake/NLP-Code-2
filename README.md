@@ -9,15 +9,16 @@ Revisiting
 ## Getting Started
 
 Syllabus:
-NLTK and Spacy basics
-RNN
-LSTM
-bidirectional-LSTMs
-NLU with hugging face
-Question Answering
-Impace Captioning
-Seq2Seq
-Bahanadau Attention
+* NLTK and Spacy basics
+* RNN
+* LSTM
+* bidirectional-LSTMs
+* NLU with hugging face
+* Question Answering
+* Sentiment Analysis -->  Seq21Output
+* Image Captioning --> Vec2Seq
+* Seq2Seq --> Question Answering/ NMT
+* Bahanadau Attention
 
 ### Dependencies
 
