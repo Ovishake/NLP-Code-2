@@ -1,17 +1,29 @@
-# Project Title
+# NLP Revisit
 
-Simple overview of use/purpose.
+Revisiting NLP basics just to understand and re-learn some of the concepts.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Revisiting
 
 ## Getting Started
 
+Syllabus:
+NLTK and Spacy basics
+RNN
+LSTM
+bidirectional-LSTMs
+NLU with hugging face
+Question Answering
+Impace Captioning
+Seq2Seq
+Bahanadau Attention
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* NLTK
+* Spacy
+* Tensorflow
 
 ### Installing
 
@@ -37,8 +49,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Avishek
 
 ## Version History
 
@@ -50,7 +61,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [APACHE 2.0] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
